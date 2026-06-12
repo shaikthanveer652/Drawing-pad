@@ -1,0 +1,6 @@
+{
+  "name": "Drawing Pad",
+  "description": "An elegant and feature-rich digital drawing canvas supporting custom brushes, colors, shapes, and image exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
